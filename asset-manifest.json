@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/yozh/static/css/main.94d9d93e.chunk.css",
+    "main.js": "/yozh/static/js/main.c121fd80.chunk.js",
+    "main.js.map": "/yozh/static/js/main.c121fd80.chunk.js.map",
+    "runtime-main.js": "/yozh/static/js/runtime-main.b270eedc.js",
+    "runtime-main.js.map": "/yozh/static/js/runtime-main.b270eedc.js.map",
+    "static/css/2.b318b159.chunk.css": "/yozh/static/css/2.b318b159.chunk.css",
+    "static/js/2.ef58de81.chunk.js": "/yozh/static/js/2.ef58de81.chunk.js",
+    "static/js/2.ef58de81.chunk.js.map": "/yozh/static/js/2.ef58de81.chunk.js.map",
+    "index.html": "/yozh/index.html",
+    "static/css/2.b318b159.chunk.css.map": "/yozh/static/css/2.b318b159.chunk.css.map",
+    "static/css/main.94d9d93e.chunk.css.map": "/yozh/static/css/main.94d9d93e.chunk.css.map",
+    "static/js/2.ef58de81.chunk.js.LICENSE.txt": "/yozh/static/js/2.ef58de81.chunk.js.LICENSE.txt",
+    "static/media/persik.ae9f0072.png": "/yozh/static/media/persik.ae9f0072.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b270eedc.js",
+    "static/css/2.b318b159.chunk.css",
+    "static/js/2.ef58de81.chunk.js",
+    "static/css/main.94d9d93e.chunk.css",
+    "static/js/main.c121fd80.chunk.js"
+  ]
+}
